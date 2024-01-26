@@ -3,8 +3,6 @@
 ## This application is not completed yet. Currently, I am working on it. 
 A small attempt to make an Food delivery app user interface in Flutter for Android and iOS.
 
-## 😎 Author(s)
-**reejal choudhary** **twitter=https://twitter.com/ChoudharyReejal**
 ## FOOD BUY&&DELIVERY APP
 <img src="screens/full_ui.png"  />
 
