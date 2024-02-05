@@ -32,7 +32,6 @@ A small attempt to make an Food delivery app user interface in Flutter for Andro
 
 # CONTACT ME📱:-
 #### G-MAIL:- reejalree@gmail.com
-#### BUSINESS MAIL:- letstalk@reejalhere.unaux.com
 #### MOBILE:- +917018361108
 
 <h3 align="left">Support🙏:</h3>
